@@ -4,7 +4,7 @@ import { brand } from "@/content";
 export default function Header() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 flex items-center justify-between px-6 py-4 backdrop-blur-md md:px-12">
-      <a href="#top" className="text-lg font-semibold tracking-tight">
+      <a href="#top" className="text-xl font-semibold tracking-tight">
         {brand.name}
       </a>
       <div className="flex items-center gap-3">
