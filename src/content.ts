@@ -26,18 +26,18 @@ export const hero = {
 };
 
 export const problem = {
-  headline: "Il tuo team passa ore su attività che si potrebbero fare in secondi.",
-  subheadline: "Non è un problema di persone. È un problema di infrastruttura.",
+  headline: "In molti stanno cercando proprio te, ma non ti troveranno mai.",
+  subheadline: "Non è un problema di servizio. È un problema di presenza.",
   problemTitle: "Problema",
   problems: [
-    "Troppo lavoro fatto ancora a mano",
-    "Processi scollegati tra loro",
-    "Esecuzione lenta e macchinosa",
-    "Strumenti che non ragionano",
+    "Sito web assente",
+    "Una SEO che non funziona",
+    "Sito datato e lento",
+    "Domini e hosting poco affidabili",
   ],
   solutionTitle: "Soluzione",
   solution:
-    "Un sistema su misura che collega i processi, li automatizza e li fa girare da soli. Ci integriamo con i sistemi che hai già, senza costringerti a cambiare tutto.",
+    "Una soluzione su misura che garantisce visibilità, SEO, conversione dei clienti, e chiarezza per chi ti cerca.",
   integrationsTitle: "Ci integriamo con",
   integrations: ["Gestionali", "Email", "Excel / Google Sheet", "CRM", "Documenti", "WhatsApp"],
 };
