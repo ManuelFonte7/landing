@@ -5,8 +5,8 @@
 // =====================================================================
 
 export const brand = {
-  name: "TuoBrand",
-  email: "ciao@tuobrand.it",
+  name: "Kredo",
+  email: "info@kredo.it",
   phone: "+39 000 000 0000",
   // Link per prenotare una call (Cal.com, Calendly, ecc.)
   bookingUrl: "https://cal.com/tuo-account/30min",
@@ -18,10 +18,10 @@ export const brand = {
 
 export const hero = {
   // La parola finale ruota tra queste (la prima viene ripetuta in automatico)
-  titleStart: "Rendiamo la tua azienda",
-  rotatingWords: ["intelligente", "veloce", "efficiente"],
+  titleStart: "Diamo alla tua azienda",
+  rotatingWords: ["visibilità", "presenza", "social proof"],
   subtitle:
-    "Soluzioni su misura che collegano i tuoi strumenti e automatizzano il lavoro ripetitivo.",
+    "Soluzioni su misura che portano la tua azienda sotto gli occhi di tutti.",
   cta: "Prenota una call gratuita",
 };
 
@@ -44,20 +44,20 @@ export const problem = {
 
 export const results = [
   {
-    title: "L'azienda diventa più smart",
-    text: "I processi si parlano tra loro e girano da soli.",
+    title: "L'azienda sotto gli occhi di tutti",
+    text: "Ottieni la visibiltà che meriti a 360°.",
   },
   {
-    title: "Il team lavora meglio",
-    text: "Meno operazioni ripetitive, più attenzione a ciò che dà valore.",
+    title: "I clienti arrivano da soli",
+    text: "Chi ha bisogno di te trova il modo di raggiungerti.",
   },
   {
-    title: "Zero errori manuali",
-    text: "Niente dati persi, niente sviste da correggere dopo.",
+    title: "Zero fraintendimenti, zero errori",
+    text: "Chiarezza e precisione in ogni interazione.",
   },
   {
     title: "Più tempo per ciò che conta",
-    text: "Le ore recuperate tornano a far crescere l'azienda.",
+    text: "I clienti arrivano da soli.",
   },
 ];
 
@@ -67,11 +67,11 @@ export const steps = {
   items: [
     {
       title: "Analizziamo",
-      text: "Ci sediamo con chi lavora ogni giorno per capire come funzionano davvero i tuoi processi e dove si perde più tempo.",
+      text: "Ci sediamo con chi lavora ogni giorno per capire come dare visibilità alla tua azienda.",
     },
     {
       title: "Sviluppiamo",
-      text: "Progettiamo e costruiamo una soluzione su misura per i bisogni della tua azienda.",
+      text: "Progettiamo e costruiamo una soluzione su misura per la tua azienda.",
     },
     {
       title: "Integriamo",
@@ -120,11 +120,7 @@ export const faq = {
   items: [
     {
       q: "Quanto tempo ci vuole per avere la prima soluzione?",
-      a: "Dipende dal progetto: di solito una prima versione utilizzabile arriva in poche settimane.",
-    },
-    {
-      q: "Devo cambiare i programmi che uso già?",
-      a: "No. Ci integriamo con i tuoi strumenti attuali, senza costringerti a cambiare tutto.",
+      a: "Dipende dal progetto: di solito una prima versione utilizzabile arriva in pochi giorni.",
     },
     {
       q: "I miei dati sono al sicuro?",
@@ -138,7 +134,7 @@ export const faq = {
 };
 
 export const cta = {
-  title: "Quante ore ha perso oggi la tua azienda?",
+  title: "Quanti clienti ha perso oggi la tua azienda?",
   text: "Prenota una call gratuita di 30 minuti. Mappiamo insieme cosa costruiremo per te.",
   button: "Prenota una call gratuita",
 };

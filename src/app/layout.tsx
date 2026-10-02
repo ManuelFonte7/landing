@@ -13,13 +13,13 @@ const serif = Instrument_Serif({
 
 // Titolo e descrizione per Google e per le anteprime social
 export const metadata: Metadata = {
-  title: "TuoBrand. Rendiamo la tua azienda più intelligente",
+  title: "Kredo. La tua azienda sotto gli occhi di tutti",
   description:
-    "Soluzioni su misura per automatizzare i processi della tua azienda. Prenota una call gratuita.",
+    "Soluzioni su misura per ampliare la tua presenza digitale. Prenota una call gratuita.",
   openGraph: {
-    title: "TuoBrand. Rendiamo la tua azienda più intelligente",
+    title: "Kredo. La tua azienda sotto gli occhi di tutti",
     description:
-      "Soluzioni su misura per automatizzare i processi della tua azienda.",
+      "Soluzioni su misura per ampliare la tua presenza digitale.",
     type: "website",
   },
 };
