@@ -59,7 +59,7 @@ export default function Hero() {
       >
         {hero.titleStart}{" "}
         {/* Finestra alta 1 riga che mostra una parola alla volta */}
-        <span className="inline-block h-[1.15em] overflow-hidden align-bottom">
+        <span className="inline-block h-[1.15em] min-w-[11ch] overflow-hidden align-bottom">
           <span ref={wordsRef} className="block">
             {words.map((w, i) => (
               <span

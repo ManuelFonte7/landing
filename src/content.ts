@@ -26,7 +26,7 @@ export const hero = {
 };
 
 export const problem = {
-  headline: "In molti stanno cercando proprio te, ma non ti troveranno mai.",
+  headline: "In molti cercano proprio te, ma non ti troveranno mai.",
   subheadline: "Non è un problema di servizio. È un problema di presenza.",
   problemTitle: "Problema",
   problems: [
